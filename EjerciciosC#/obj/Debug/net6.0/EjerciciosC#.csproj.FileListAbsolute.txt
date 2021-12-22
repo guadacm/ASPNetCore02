@@ -1,0 +1,15 @@
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\bin\Debug\net6.0\EjerciciosC#.exe
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\bin\Debug\net6.0\EjerciciosC#.deps.json
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\bin\Debug\net6.0\EjerciciosC#.runtimeconfig.json
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\bin\Debug\net6.0\EjerciciosC#.dll
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\bin\Debug\net6.0\ref\EjerciciosC#.dll
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\bin\Debug\net6.0\EjerciciosC#.pdb
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\EjerciciosC#.csproj.AssemblyReference.cache
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\EjerciciosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\EjerciciosC#.AssemblyInfoInputs.cache
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\EjerciciosC#.AssemblyInfo.cs
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\EjerciciosC#.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\EjerciciosC#.dll
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\ref\EjerciciosC#.dll
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\EjerciciosC#.pdb
+C:\Users\Guada\Desarrollo\ASPNetCore02\EjerciciosC#\obj\Debug\net6.0\EjerciciosC#.genruntimeconfig.cache
