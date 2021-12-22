@@ -1,0 +1,15 @@
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\bin\Debug\net6.0\PolimorfismoC#.exe
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\bin\Debug\net6.0\PolimorfismoC#.deps.json
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\bin\Debug\net6.0\PolimorfismoC#.runtimeconfig.json
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\bin\Debug\net6.0\PolimorfismoC#.dll
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\bin\Debug\net6.0\ref\PolimorfismoC#.dll
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\bin\Debug\net6.0\PolimorfismoC#.pdb
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\PolimorfismoC#.csproj.AssemblyReference.cache
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\PolimorfismoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\PolimorfismoC#.AssemblyInfoInputs.cache
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\PolimorfismoC#.AssemblyInfo.cs
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\PolimorfismoC#.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\PolimorfismoC#.dll
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\ref\PolimorfismoC#.dll
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\PolimorfismoC#.pdb
+C:\Users\Guada\Desarrollo\ASPNetCore02\PolimorfismoC#\obj\Debug\net6.0\PolimorfismoC#.genruntimeconfig.cache
