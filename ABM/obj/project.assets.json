@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guada\\Desarrollo\\ASPNetCore02\\ASPNetCore02.csproj",
+      "projectUniqueName": "C:\\Users\\Guada\\Desarrollo\\ASPNetCore02\\ABM\\ASPNetCore02.csproj",
       "projectName": "ASPNetCore02",
-      "projectPath": "C:\\Users\\Guada\\Desarrollo\\ASPNetCore02\\ASPNetCore02.csproj",
+      "projectPath": "C:\\Users\\Guada\\Desarrollo\\ASPNetCore02\\ABM\\ASPNetCore02.csproj",
       "packagesPath": "C:\\Users\\Guada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guada\\Desarrollo\\ASPNetCore02\\obj\\",
+      "outputPath": "C:\\Users\\Guada\\Desarrollo\\ASPNetCore02\\ABM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guada\\AppData\\Roaming\\NuGet\\NuGet.Config",

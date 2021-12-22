@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZJTBC9d55CbGLxz/n4Swg+74K2khXVPabUddH4uvUO0ftWje598B8ItjZ5XmAJbGWe3D2aD2xuzYaEJy5mW+AA==",
+  "dgSpecHash": "4p32+/oW2Di+eT5cb2BOp+7QT+LAukPjJXovzYeqF1hizN0U6MgoSSuTO4tnuxtQrbVhC5Z16crgTNRslvUPoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guada\\Desarrollo\\ASPNetCore02\\ASPNetCore02.csproj",
+  "projectFilePath": "C:\\Users\\Guada\\Desarrollo\\ASPNetCore02\\ABM\\ASPNetCore02.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
